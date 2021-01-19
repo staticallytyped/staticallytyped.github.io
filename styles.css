@@ -1,0 +1,14 @@
+h2 {
+  color: #e60000;
+  font-weight: 200;
+  font-family: Courier;
+}
+
+.header {
+  padding-bottom: 64px;
+}
+
+body {
+  padding: 24px;
+  color: #1a1a1a;
+}
