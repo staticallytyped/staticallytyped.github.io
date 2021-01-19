@@ -1,0 +1,1 @@
+# staticallytyped.github.io
